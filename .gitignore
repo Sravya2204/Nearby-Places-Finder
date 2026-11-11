@@ -1,0 +1,4 @@
+# Local API key file - never commit
+js/config.js
+node_modules/
+.DS_Store
